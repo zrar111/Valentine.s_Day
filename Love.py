@@ -9,7 +9,7 @@ import seaborn
 import numpy
 
 l = numpy.arange(0, 4, 0.01)
-L = 1.0 / l
+L = 1.0 / 2
 
 theta = numpy.arange(-4, 4, 0.01)
 o = 3.0 * numpy.cos(theta)
