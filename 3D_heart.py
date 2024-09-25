@@ -52,7 +52,7 @@ def plot_implicit(fn, bbox=(-1.5, 1.5)):
     ax.set_zlim3d(zmin, zmax)
     ax.set_xlim3d(xmin, xmax)
     ax.set_ylim3d(ymin, ymax)
-    # 标题
+    # xuebao
     plt.title(u"这是一个标题",fontproperties=myfont)
     # 取消坐标轴显示
     plt.axis('on')
